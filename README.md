@@ -1,4 +1,4 @@
-# Analyzing-the-ODI-cricket-data
+# Analyzing-the-T20-cricket-data
 
 - This project uses a regression model to analyze cricket scores with respective overs. The goal is to predict the cricket score for a given number of overs.
 
